@@ -13,6 +13,7 @@ This was a terrible idea.
 - scrabble-solver.ipynb - Code to solve the problem
 - scrabble_result.csv - Generated result file
 - scrabble-plot.ipynb - Code that plots the file
+- plot.png - Just the plot as a png
 
 ## What's the Repo Licence
 
